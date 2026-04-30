@@ -8,10 +8,7 @@
       "runtime": "python3.11"
     }
   },
-  "env": [
-    {
-      "key": "VERCEL_ENV",
-      "value": "production"
-    }
-  ]
+  "env": {
+    "VERCEL_ENV": "production"
+  }
 }
