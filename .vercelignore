@@ -1,0 +1,14 @@
+node_modules
+.git
+docker-compose.yml
+Dockerfile
+.env.local
+.env*.local
+*.pyc
+__pycache__
+.pytest_cache
+venv
+.venv
+start-backend.bat
+start-frontend.bat
+install-node.ps1
